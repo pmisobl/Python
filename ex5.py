@@ -16,7 +16,7 @@ total = my_age + my_height + my_weight
 print (f"If i add {my_age} , {my_height} and {my_weight}, ill get {total}")
 
 inch_height= my_height * 0.39
-print (f"he have {inch_height} height in inches")
+print (f"He have {inch_height} height in inches")
 
 pound_weight = my_weight * 2.204
 print (f"He have {pound_weight} weight in pounds")
